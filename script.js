@@ -3,7 +3,7 @@ function addTask() {
     let task = input.value;
 
     if (task === "") {
-        alert("Please enter a task");
+        alert("Please enter your daily task");
         return;
     }
 
